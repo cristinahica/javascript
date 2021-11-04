@@ -1,2 +1,2 @@
-# javascript
+# modernJavascript
 Created with CodeSandbox
